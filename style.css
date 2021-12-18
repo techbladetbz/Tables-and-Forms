@@ -1,0 +1,10 @@
+table, th, td {
+  border:2px solid grey;
+  border-collapse:collapse;
+  empty-cells:hide;
+}
+
+body{
+  text-align:center;
+  margin:auto;
+}
